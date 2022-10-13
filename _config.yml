@@ -1,6 +1,6 @@
 # Site settings
 title_left    : "Thomas"
-title_right   : "Pancha" # default: ""
+title_right   : " Pancha" # default: ""
 description   : "Hi, I'm Thomas Pancha and welcome to my blog."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://heiswayi.github.io/thinkspace # site url
