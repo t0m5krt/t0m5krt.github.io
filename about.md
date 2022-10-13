@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+I'm a 20-year-old Filipino student and developer that enjoys hacking and developing software and hardware. I only do this to build my online portfolio.
