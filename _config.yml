@@ -3,7 +3,7 @@ title_left    : "Thomas"
 title_right   : " Pancha" # default: ""
 description   : "Hi, I'm Thomas Pancha and welcome to my blog."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://heiswayi.github.io/thinkspace # site url
+url           : https://t0m5krt.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
